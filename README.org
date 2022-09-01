@@ -10,5 +10,4 @@ My own dataset: https://www.kaggle.com/datasets/jessarmandopealucero/mexico-envi
 
 My first approach to Data science and environmental indicators from Mexico is here: https://github.com/lordaris/Data_Science/blob/main/Environmental_Indicators_Mexico.ipynb
 
-
 # TODO: replace url with links over the text. 
