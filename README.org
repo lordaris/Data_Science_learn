@@ -8,4 +8,7 @@ I also made my own CSV based on a world bank dataset (any of them are very usefu
 World bank dataset: https://data.humdata.org/dataset/world-bank-environment-indicators-for-mexico
 My own dataset: https://www.kaggle.com/datasets/jessarmandopealucero/mexico-environmental-indicators
 
+My first approach to Data science and environmental indicators from Mexico is here: https://github.com/lordaris/Data_Science/blob/main/Environmental_Indicators_Mexico.ipynb
+
+
 # TODO: replace url with links over the text. 
