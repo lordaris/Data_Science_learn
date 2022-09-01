@@ -1,0 +1,11 @@
+* Data Science applied to environmental indicators
+
+
+Some basic indicators can be found at: 
+https://datos.gob.mx/busca/organization/semarnat
+
+I also made my own CSV based on a world bank dataset (any of them are very useful, so I have to clean the data and complete missing values if possible) 
+World bank dataset: https://data.humdata.org/dataset/world-bank-environment-indicators-for-mexico
+My own dataset: https://www.kaggle.com/datasets/jessarmandopealucero/mexico-environmental-indicators
+
+# TODO: replace url with links over the text. 
