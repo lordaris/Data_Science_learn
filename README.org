@@ -1,13 +1,13 @@
 * Data Science applied to environmental indicators
 
 
-Some basic indicators from Mexico can be found at: 
-https://datos.gob.mx/busca/organization/semarnat
+Some basic indicators from Mexico can be found at: [[https://datos.gob.mx/busca/organization/semarnat
+][SEMARNAT]]
 
 I also made my own CSV based on a world bank dataset (any of them are very useful, so I have to clean the data and complete missing values if possible) 
-World bank dataset: https://data.humdata.org/dataset/world-bank-environment-indicators-for-mexico
-My own dataset: https://www.kaggle.com/datasets/jessarmandopealucero/mexico-environmental-indicators
+[[https://data.humdata.org/dataset/world-bank-environment-indicators-for-mexico][World bank dataset]]
+[[https://www.kaggle.com/datasets/jessarmandopealucero/mexico-environmental-indicators][My own dataset]]
 
-My first approach to Data science and environmental indicators from Mexico is here: https://github.com/lordaris/Data_Science/blob/main/Environmental_Indicators_Mexico.ipynb
+  [[https://github.com/lordaris/Data_Science/blob/main/Environmental_Indicators_Mexico.ipynb][My first approach to Data science and environmental indicators from Mexico]]
 
 # TODO: replace url with links over the text. 
