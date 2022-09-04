@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My idea is to learn Data Science as soon as I can, by reading the most recommended books and practicing as much as I can. To be more organized, I'll make a "learning timeline" table, where I'll write the most important things I learned by day and the sources where I got that information (so I can get back to them if I need it).
 
 I have a strong Python and math foundation, so it won't be part of the learning path, and I can concentrate in other tools and concepts that I don't know or I haven't mastered yet.
@@ -64,3 +65,17 @@ This is a suggested resources list based on text, from books and official docume
 |   1 | Data Visualization (with python)   |                1 | [[https://www.kaggle.com/learn][Kaggle]]
  |
 |   2 |  Finished Data Visualization (with Python)              |           4       |   [[https://www.kaggle.com/learn][Kaggle]]     |
+=======
+* Data Science applied to environmental indicators
+
+
+Some basic indicators from Mexico can be found at: [[https://datos.gob.mx/busca/organization/semarnat][SEMARNAT]]
+
+I also made my own CSV based on a world bank dataset (any of them are very useful, so I have to clean the data and complete missing values if possible) 
+[[https://data.humdata.org/dataset/world-bank-environment-indicators-for-mexico][World bank dataset]]
+[[https://www.kaggle.com/datasets/jessarmandopealucero/mexico-environmental-indicators][My own dataset]]
+
+  [[https://github.com/lordaris/Data_Science/blob/main/Environmental_Indicators_Mexico.ipynb][My first approach to Data science and environmental indicators from Mexico]]
+
+# TODO: replace url with links over the text. 
+>>>>>>> 48610e4f1386bd3157c6904c73be63dd70ffea6f
