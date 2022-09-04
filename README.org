@@ -1,0 +1,66 @@
+My idea is to learn Data Science as soon as I can, by reading the most recommended books and practicing as much as I can. To be more organized, I'll make a "learning timeline" table, where I'll write the most important things I learned by day and the sources where I got that information (so I can get back to them if I need it).
+
+I have a strong Python and math foundation, so it won't be part of the learning path, and I can concentrate in other tools and concepts that I don't know or I haven't mastered yet.
+
+This is the suggested structure for the "learning timeline", which I can change if I consider it a good idea:
+
+
+| Day | Topic         | Confidence (0-5) | Source |
+|-----+---------------+------------------+--------|
+|   1 | Example Topic |                5 | None   |
+|   2 |               |                  |        |
+
+
+
+
+
+This is a suggested resources list based on text, from books and official documentation. 
+
+** Courses
+
+- [[https://automatetheboringstuff.com/][Automate The Boring Stuff With Python]]
+- [[http:inventwithpython.com/beyond][Beyond The Basic Stuff With Python]]
+- [[https://git-scm.com/doc][Git]]
+- [[https://dev.mysql.com/doc/refman/8.0/en/][MySQL 8.0 Reference Manual]]
+- [[https://ducamp.me/images/0/00/Intro-Computation-Programming-using-Python.pdf][Introduction to Computation and Programming Using Python]]
+- [[https://pandas.pydata.org/docs/getting_started/index.html#getting-started][Getting started — pandas 1.4.2 documentation]]
+- [[https://pandas.pydata.org/docs/user_guide/index.html#user-guide][User Guide — pandas 1.4.2 documentation]]
+- [[https://matplotlib.org/stable/tutorials/index][Tutorials — Matplotlib 3.5.2 documentation]]
+
+
+** Mathematics & Statistics
+- [[https://mml-book.github.io/book/mml-book.pdf][Mathematics for Machine Learning]]
+- [[https://www.researchgate.net/profile/Janine-Zitianellis/post/Can_anyone_please_suggest_a_books_on_machine_learning_using_R_Programming/attachment/613a5b83647f3906fc975a71/AS%3A1066204907204608%401631214467436/download/Practical+Statistics+for+Data+Scientists+50%2B+Essential+Concepts+Using+R+and+Python+by+Peter+Bruce%2C+Andrew+Bruce%2C+Peter+Gedeck.pdf][Practical Statistics for Data Scientists]]
+
+** Machine Learning
+- [[https://alex.smola.org/drafts/thebook.pdf][Introduction to Machine Learning]]
+- [[https://ai.stanford.edu/~nilsson/MLBOOK.pdf][Introduction to Machine Learning (An Early Draft of a Proposed Textbook)]]
+
+** Deep learning
+- [[https://www.deeplearningbook.org/][Deep Learning (An MIT Press Book)]]
+
+** Datasets
+- [[https://github.com/awesomedata/awesome-public-datasets][Awesome public datasets (github)]]
+- [[https://datasetsearch.research.google.com/][Google Dataset Search]]
+- [[https://www.kaggle.com/datasets][Find Open Datasets and Machine Learning Projects | Kaggle]]
+- [[https://www.data.gov/][Data.gov]]
+- [[https://datahub.io/collections][Dataset Collections - DataHub - Frictionless Data]]
+- [[https://archive.ics.uci.edu/ml/datasets.php][UCI Machine Learning Repository: Data Sets]]
+- [[https://earthdata.nasa.gov/][Earthdata | Earthdata]]
+- [[http://opendata.cern.ch/][CERN Open Data Portal]]
+- [[https://apps.who.int/gho/data/node.home][GHO | By theme]]
+- [[https://www.bfi.org.uk/education-research/film-industry-statistics-research][Industry data and insights | BFI]]
+- [[https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page][TLC Trip Record Data - TLC]]
+- [[https://crime-data-explorer.fr.cloud.gov/][FBI Crime Data Explorer]]
+- [[https://www.reddit.com/r/datasets/][r/Datasets]]
+- [[http://academictorrents.com/browse.php][Academic Torrents]]
+
+
+* My learning timeline
+
+
+| Day | Topic         | Confidence (0-5) | Source |
+|-----+---------------+------------------+--------|
+|   1 | Data Visualization (with python)   |                1 | [[https://www.kaggle.com/learn][Kaggle]]
+ |
+|   2 |  Finished Data Visualization (with Python)              |           4       |   [[https://www.kaggle.com/learn][Kaggle]]     |
