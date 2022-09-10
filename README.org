@@ -24,6 +24,7 @@ This is a suggested resources list based on text, from books and official docume
 - [[https://www.deeplearningbook.org/][Deep Learning (An MIT Press Book)]]
 
 ** Datasets
+- [[https://ourworldindata.org/][Our World in data]]
 - [[https://github.com/awesomedata/awesome-public-datasets][Awesome public datasets (github)]]
 - [[https://datasetsearch.research.google.com/][Google Dataset Search]]
 - [[https://www.kaggle.com/datasets][Find Open Datasets and Machine Learning Projects | Kaggle]]
